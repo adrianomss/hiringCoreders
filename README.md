@@ -1,6 +1,7 @@
 <h1>HiringCoders- Desafio Front-End - Adriano Morais Santos da Silva</h1>
 
 Este é um desafio teste para resolução, proposto pela equipe de ensino da Gama Academy https://github.com/gamaacademy
+O desafio é foi construir uma lend page para um ecommerce.
 
 ## 🚀 Começando
 
